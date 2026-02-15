@@ -1,0 +1,16 @@
+echo hello world
+cd /tmp
+dir
+cd
+dir
+set myvar 123
+environ
+echo testing echo command
+help
+echo redirect output to file > output.txt
+echo append this >> output.txt
+dir > dirlist.txt
+pause
+sleep 2 &
+echo finished background test &
+quit
