@@ -1,0 +1,8 @@
+batchfile.txt
+lab1
+lab11
+lab1.cpp
+output.txt
+out.txt
+README.md
+setup.sh
